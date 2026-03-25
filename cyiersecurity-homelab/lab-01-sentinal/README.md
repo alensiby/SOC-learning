@@ -63,11 +63,10 @@ SigninLogs
 ```
 
 ## Screenshots
-- `screenshots/01-sentinel-overview.png` — Sentinel dashboard after data connections
-- `screenshots/02-data-connectors-connected.png` — All connectors showing Connected
-- `screenshots/03-kql-security-events.png` — KQL query returning SecurityEvent data
-- `screenshots/04-analytics-rules-active.png` — Enabled analytics rules list
-- `screenshots/05-first-incident.png` — First Sentinel incident created from failed logins
+- `screenshots/Data_Connectors.png` — All connectors showing Connected
+- `screenshots/KQL-verification.png` — KQL query returning SecurityEvent data
+- `screenshots/active_rules.png` — Enabled analytics rules list
+- `screenshots/Incident-Multiple-login-failures.png` — First Sentinel incident created from failed logins
 
 ## Tools & Services Used
 Microsoft Sentinel · Log Analytics Workspace · Azure Monitor Agent · Microsoft Entra ID

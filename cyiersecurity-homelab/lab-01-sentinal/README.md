@@ -76,4 +76,4 @@ Azure Activity · Azure Policy · KQL (Kusto Query Language) · Windows Server
 ## Skills Demonstrated
 SIEM deployment · Cloud log ingestion · Data connector configuration
 KQL querying · Security event simulation · Detection rule activation
-Azure identity security · Audit log analysis"<img width="464" height="1666" alt="image" src="https://github.com/user-attachments/assets/864c87bd-86c5-480a-9664-b1e5c95305eb" />
+Azure identity security · Audit log analysis
